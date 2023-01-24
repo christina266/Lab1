@@ -1,0 +1,7 @@
+Public class Problem {
+	public static void main(String[]args){
+		system.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+		System.out.println("Hello,there are a lot");
+		System.out.print("off problems");
+	}
+}
